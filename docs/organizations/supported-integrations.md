@@ -219,6 +219,7 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Vulcan</div>
   </a>
+  
   <a class="integration-button" href="zendesk-integration.html">
     <div class="logo">
       <img src="./images/zendesk_logo.png" />
@@ -226,6 +227,14 @@ HackerOne currently supports these integrations:
     <div class="logo-text">Zendesk</div>
   </a>
 </div>
+<div class="int-button-container">
+  <a class="integration-button" href="armorcode-integration.html">
+    <div class="logo">
+      <img src="./images/armorcode_logo.png" />
+    </div>
+    <div class="logo-text">ArmorCode</div>
+  </a>
+  </div>
 
 <br>
 
